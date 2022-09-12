@@ -1,0 +1,19 @@
+body{
+    margin:5px;
+    padding:5px;
+    line-height:1.15;
+
+}
+h1,h2,h3{
+    font-weight: bold;
+    margin-top:15px;
+}
+ul li{
+    margin-left:25px;
+    list-style-type: upper-roman;
+    border: 1.2px solid black;
+    border-radius: 150px;
+    background-color: aqua;
+    margin-right:500px;
+
+}
